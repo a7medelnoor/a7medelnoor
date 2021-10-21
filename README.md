@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahdnoor4@gmail.com**
 
-- ⚡ Fun fact **create content, watch anime, design and develop**
+- ⚡ Fun fact **create content, watch anime, design and build apps**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
