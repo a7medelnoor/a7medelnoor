@@ -1,7 +1,7 @@
 ![alt text](https://github.com/a7medelnoor/ahmedelnoor/blob/main/github_header.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Ahmed Elnoor</h1>
-<h3 align="center">I am a software developer/engineer from Sudan. living in Khartoum and currently working as a full-time software engineer developing mobile apps using Java and Kotlin programming language.</h3>
+<h3 align="center">I am a software developer/engineer from Sudan. living in United Arabs Emirates and currently working remotly as a software engineer developing mobile apps using Java and Kotlin programming language.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medelnoor&label=Profile%20views&color=0e75b6&style=flat" alt="a7medelnoor" /> </p>
 
