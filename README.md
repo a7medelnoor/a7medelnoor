@@ -32,7 +32,10 @@ I write about Android & Software engineering You can find my articles on <a href
 <img alt="Java" src="https://img.shields.io/badge/Java-ColourCode?logo=java&logoColor=white&style=flat" />
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=flat" />
 <img alt="Android" src="https://img.shields.io/badge/AndroidSDK-ColourCode?logo=AndroidSDK&logoColor=white&style=falt" />
-  <img alt="Dagger" src="https://img.shields.io/badge/Daggar-ColourCode?logo=Daggar&logoColor=white&style=flat" />
+  <img alt="Dagger" src="https://img.shields.io/badge/Daggar-7F52FF?logo=Daggar&logoColor=white&style=flat" />
+    <img alt="Kodein" src="https://img.shields.io/badge/Kodein-21759B?logo=Kodein&logoColor=white&style=flat" />
+  <img alt="Koin" src="https://img.shields.io/badge/Koin-6DB33F?logo=Koin&logoColor=white&style=flat" />
+
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=flat" />
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white&style=flat" />
 <img alt="MVVM" src="https://img.shields.io/badge/MVVM-ColourCode?logo=MVVM&logoColor=white&style=flat" />
