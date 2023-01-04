@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **create content, watch anime, design and build apps**
 
-<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<writing_hand>.gif" width="30px">
+✍️ Writing & Blog:-
 
 
 <h3 align="left">Connect with me:</h3>
