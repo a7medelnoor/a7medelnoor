@@ -27,7 +27,7 @@ I write about Android & Software engineering You can find my articles on <a href
 </p>
 
 <h3 align="left"> ⚒️ Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/BadgeText-ColourCode?logo=SimpleIconName&logoColor=ColorName&style=ShieldStyle" />
+<img src="https://img.shields.io/badge/Kotlin-ColourCode?logo=kotlin&logoColor=ColorName&style=ShieldStyle" />
 
 
 <h3 align="left">Support:</h3>
