@@ -22,8 +22,8 @@ I write about Android & Software engineering You can find my articles on <a href
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a7medelnoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="a7medelnoor" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/the-ahmedelnoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="the-ahmedelnoor" height="30" width="40" /></a>
-<a href="https://fb.com/a7medelnoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="a7medelnoor" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmed-elnoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="the-ahmedelnoor" height="30" width="40" /></a>
+<a href="https://fb.com/a7medelnooor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="a7medelnoor" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> ⚒️ Languages and Tools:</h3>
