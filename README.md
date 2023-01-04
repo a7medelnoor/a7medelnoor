@@ -31,6 +31,15 @@ I write about Android & Software engineering You can find my articles on <a href
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ColourCode?logo=kotlin&logoColor=ColorName&style=ShieldStyle" />
 <img alt="Java" src="https://img.shields.io/badge/Java-ColourCode?logo=java&logoColor=ColorName&style=ShieldStyle" />
 <img alt="Android" src="https://img.shields.io/badge/Android-ColourCode?logo=Android&logoColor=ColorName&style=ShieldStyle" />
+<img alt="Android" src="https://img.shields.io/badge/AndroidSDK-ColourCode?logo=AndroidSDK&logoColor=ColorName&style=ShieldStyle" />
+  <img alt="Dagger" src="https://img.shields.io/badge/Daggar-ColourCode?logo=Daggar&logoColor=ColorName&style=ShieldStyle" />
+<img alt="Flutter" src="https://img.shields.io/badge/Flutter-ColourCode?logo=Flutter&logoColor=ColorName&style=ShieldStyle" />
+<img alt="Dart" src="https://img.shields.io/badge/Dart-ColourCode?logo=Dart&logoColor=ColorName&style=ShieldStyle" />
+<img alt="MVVM" src="https://img.shields.io/badge/MVVM-ColourCode?logo=MVVM&logoColor=ColorName&style=ShieldStyle" />
+  <img alt="Clean-Architecture" src="https://img.shields.io/badge/Clean-Architecture-ColourCode?logo=Clean-Architecture&logoColor=ColorName&style=ShieldStyle" />
+<img alt="Wordpress" src="https://img.shields.io/badge/WordPress-ColourCode?logo=WordPress&logoColor=ColorName&style=ShieldStyle" />
+<img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-ColourCode?logo=SpringBoot&logoColor=ColorName&style=ShieldStyle" />
+
 </p>
 
 
