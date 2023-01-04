@@ -29,14 +29,14 @@ I write about Android & Software engineering You can find my articles on <a href
 <h3 align="left"> ⚒️ Languages and Tools:</h3>
 <p>
 <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white&style=flat" />
-<img alt="Java" src="https://img.shields.io/badge/Java-ColourCode?logo=java&logoColor=ColorName&style=ShieldStyle" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ColourCode?logo=java&logoColor=white&style=flat" />
 <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=Android&logoColor=white&style=flat" />
-<img alt="Android" src="https://img.shields.io/badge/AndroidSDK-ColourCode?logo=AndroidSDK&logoColor=ColorName&style=ShieldStyle" />
-  <img alt="Dagger" src="https://img.shields.io/badge/Daggar-ColourCode?logo=Daggar&logoColor=ColorName&style=ShieldStyle" />
+<img alt="Android" src="https://img.shields.io/badge/AndroidSDK-ColourCode?logo=AndroidSDK&logoColor=white&style=falt" />
+  <img alt="Dagger" src="https://img.shields.io/badge/Daggar-ColourCode?logo=Daggar&logoColor=white&style=flat" />
 <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter&logoColor=white&style=flat" />
 <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?logo=Dart&logoColor=white&style=flat" />
-<img alt="MVVM" src="https://img.shields.io/badge/MVVM-ColourCode?logo=MVVM&logoColor=ColorName&style=ShieldStyle" />
-  <img alt="Clean-Architecture" src="https://img.shields.io/badge/Clean-Architecture-ColourCode?logo=Clean-Architecture&logoColor=ColorName&style=ShieldStyle" />
+<img alt="MVVM" src="https://img.shields.io/badge/MVVM-ColourCode?logo=MVVM&logoColor=white&style=flat" />
+  <img alt="Clean-Architecture" src="https://img.shields.io/badge/Clean-Architecture-ColourCode?logo=Clean-Architecture&logoColor=white&style=flat" />
 <img alt="Wordpress" src="https://img.shields.io/badge/WordPress-21759B?logo=WordPress&logoColor=white&style=flat" />
 <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white&style=flat" />
 
