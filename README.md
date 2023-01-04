@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/a7medelnoor" target="blank"><img src="https://img.shields.io/twitter/follow/a7medelnoor?logo=twitter&style=for-the-badge" alt="a7medelnoor" /></a> </p>
 
-- 🔭 I’m currently working at [Interface Co, Ltd](interface-ict.com)
+- 🔭 I’m currently looking for a new challenge 
 
 - 🌱 I’m currently learning **Dart language and MERN development**
 
