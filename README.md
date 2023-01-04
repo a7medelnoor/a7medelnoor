@@ -15,6 +15,9 @@
 
 - ⚡ Fun fact **create content, watch anime, design and build apps**
 
+<img src="https://raw.githubusercontent.com/<OWNER>/<OWNER>/master/<writing_hand>.gif" width="30px">
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/a7medelnoor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="a7medelnoor" height="30" width="40" /></a>
