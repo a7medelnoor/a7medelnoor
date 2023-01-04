@@ -27,7 +27,8 @@ I write about Android & Software engineering You can find my articles on <a href
 </p>
 
 <h3 align="left"> ⚒️ Languages and Tools:</h3>
-![My Skills](https://skillicons.dev/icons?i=,git,github,android,java,kotlin)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/a7medelnoor"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="a7medelnoor" /></a></p><br><br>
