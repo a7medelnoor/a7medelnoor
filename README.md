@@ -1,8 +1,8 @@
 ![alt text](https://github.com/a7medelnoor/ahmedelnoor/blob/main/github_header.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Ahmed Elnoor</h1>
-<h3 align="center">I am a software engineer | Mobile Engineer. Ilive in United Arabs Emirates, I have 5 years of experience in the mobile application development
-  using Java and Kotlin, Flutter programming languages . Currently I am looking for a new challenge onsite/remote</h3>
+<h3 align="center">I am a software | Mobile Engineer. I live in United Arabs Emirates, I have 5 years of experience in the mobile application development
+  using Java and Kotlin, Flutter programming languages. Currently I am looking for a new challenge onsite/remote</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medelnoor&label=Profile%20views&color=0e75b6&style=flat" alt="a7medelnoor" /> </p>
 
