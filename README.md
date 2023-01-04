@@ -9,14 +9,14 @@
 
 - 🔭 I’m currently looking for a new challenge 
 
-- 🌱 I’m currently learning **Dart language and MERN development**
+- 🌱 I’m currently Working with **Java, Kotlin, Dart and MERN development**
 
 - 📫 How to reach me **ahdnoor4@gmail.com**
 
 - ⚡ Fun fact **create content, watch anime, design and build apps**
 
 ✍️ Writing & Blog:-
-
+I write about Android & Software engineering You can find my articles on <a href="https://twitter.com/a7medelnoor" target="blank">Medium</a> Medium and hashnode.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
