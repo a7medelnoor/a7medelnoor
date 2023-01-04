@@ -27,9 +27,11 @@ I write about Android & Software engineering You can find my articles on <a href
 </p>
 
 <h3 align="left"> ⚒️ Languages and Tools:</h3>
-<img src="https://img.shields.io/badge/Kotlin-ColourCode?logo=kotlin&logoColor=ColorName&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Java-ColourCode?logo=java&logoColor=ColorName&style=ShieldStyle" />
-<img src="https://img.shields.io/badge/Android-ColourCode?logo=Android&logoColor=ColorName&style=ShieldStyle" />
+<p>
+<img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ColourCode?logo=kotlin&logoColor=ColorName&style=ShieldStyle" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ColourCode?logo=java&logoColor=ColorName&style=ShieldStyle" />
+<img alt="Android" src="https://img.shields.io/badge/Android-ColourCode?logo=Android&logoColor=ColorName&style=ShieldStyle" />
+</p>
 
 
 <h3 align="left">Support:</h3>
