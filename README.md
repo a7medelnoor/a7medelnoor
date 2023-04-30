@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/a7medelnoor" target="blank"><img src="https://img.shields.io/twitter/follow/a7medelnoor?logo=twitter&style=for-the-badge" alt="a7medelnoor" /></a> </p>
 
-- 🔭 I’m currently looking for a new challenge 
+- 🔭 I’m currently Working as an Android Engineer, building Custom Android frameware for Crypto 
 
 - 🌱 I’m currently Working with **Java, Kotlin, Dart and MERN development**
 
