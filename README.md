@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ahmed Elnoor</h1>
 <h3 align="center">I am a software | Mobile Engineer. I live in United Arabs Emirates, I have 5 years of experience in the mobile application development
-  using Java and Kotlin, Flutter programming languages. Currently I am looking for a new challenge onsite/remote</h3>
+  using Java and Kotlin, Flutter programming languages. Currently working with Java, Kotlin, Flutter, AOSP, Custom ROM, Android OS, NodeJS, Typescript</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medelnoor&label=Profile%20views&color=0e75b6&style=flat" alt="a7medelnoor" /> </p>
 
