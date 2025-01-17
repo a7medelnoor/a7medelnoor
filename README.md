@@ -1,7 +1,7 @@
 ![alt text](https://github.com/a7medelnoor/ahmedelnoor/blob/main/github_header.png?raw=true)
 
 <h1 align="center">Hi 👋, I'm Ahmed Elnoor</h1>
-<h3 align="center">I am a Software | Mobile Engineer based in the United Arab Emirates, with 6 years of experience in mobile application development using Java, Kotlin, Flutter, and React Native. Currently, I work with Kotlin, Flutter, React Native, Custom ROMs, Android OS, Node.js, TypeScript, and Next.js. I am also an indie hacker who builds apps, bringing creative ideas to life through innovation and development.</h3>
+<h3 align="center">I am a Software | Mobile Engineer and Technical Writer based in the United Arab Emirates, with 6 years of experience in mobile application development using Java, Kotlin, Flutter, and React Native. Currently, I work with Kotlin, Flutter, React Native, Custom ROMs, Android OS, Node.js, TypeScript, and Next.js. I am also an indie hacker who builds apps, bringing creative ideas to life through innovation and development.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a7medelnoor&label=Profile%20views&color=0e75b6&style=flat" alt="a7medelnoor" /> </p>
