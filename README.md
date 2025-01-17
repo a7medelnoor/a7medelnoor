@@ -16,7 +16,7 @@
 - ⚡ Fun fact **create content, watch anime, design and build apps**
 
 <h3 align="left"> ✍️ Writing & Blog: </h3>
-I write about Android & Software engineering You can find my articles on <a href="https://medium.com/@a7medelnoor" target="blank">Medium</a> and <a href="https://a7medelnoor.hashnode.dev" target="blank">Hashnode</a>.
+I write about Android, Mobile Development & Software engineering You can find my articles on <a href="https://medium.com/@a7medelnoor" target="blank">Medium</a> and <a href="https://a7medelnoor.hashnode.dev" target="blank">Hashnode</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
